@@ -2,7 +2,6 @@
 <body>
 <marquee behavior="alternate"scrollamount="0" style="color: yellow; font-size: 12px; font-weight:bolder; line-height: 150%; text-shadow: #000000 0px 1px 1px;">v 2.0</marquee>
 <body bgcolor="gray">
-</body>
   </html>
   <style>
 div {
@@ -45,7 +44,6 @@ font-weight:bold;
 <p><img src="http://lichnosti.net/photos/1342/main.jpg" height="320" border="0" width="250" ><div>"Ненавижу коммунистов и гомосексуалистов. Этим половым извращенцам даже руки никогда не подам и не стану выступать с ними в одном концерте…"</div>
 <img src="http://lichnosti.net/photos/1342/12698898642.jpg" height="320" border="0" width="250" class="rightpic">
 </input>
-<body>
   <br>
 <br>
 <br>
