@@ -1,4 +1,5 @@
 <html>
+ <hr color="silver">
 <body>
   <vid color="black">v 2.0</vid>
   <style>
@@ -20,7 +21,7 @@ padding:0;
 a {
 margin:400;
 padding:200px;
-color:green;
+color:black;
 }
 ul.hr li {
 display:inline;
