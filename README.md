@@ -1,7 +1,7 @@
 <html>
  <hr color="silver">
 <body>
-  <vid color="black"><smile>v 2.0</vid>
+  <vid color="black">v 2.0</vid>
   <style>
 div {
 color: yellow;
@@ -42,7 +42,6 @@ font-weight:bold;
 <p><img src="http://lichnosti.net/photos/1342/main.jpg" height="320" border="2" width="250" ><div>"Ненавижу коммунистов и гомосексуалистов. Этим половым извращенцам даже руки никогда не подам и не стану выступать с ними в одном концерте…"</div>
 <img src="http://lichnosti.net/photos/1342/12698898642.jpg" height="320" border="2" width="250" class="rightpic">
   <br>
-<br>
 <br>
 <br>
 <br>
