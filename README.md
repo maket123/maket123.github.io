@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>Misha Krug</title>
@@ -73,4 +73,3 @@ font-weight:bold;
 <br>
 <br>
 </body>
-</html>
