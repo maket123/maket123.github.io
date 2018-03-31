@@ -39,8 +39,8 @@ font-weight:bold;
  <a href="https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D1%83%D0%B3,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87">Жизнь блатного</a>
 </ul>
 <hr color="silver">
-<p><img src="http://lichnosti.net/photos/1342/main.jpg" height="320" border="0" width="250" ><div>"Ненавижу коммунистов и гомосексуалистов. Этим половым извращенцам даже руки никогда не подам и не стану выступать с ними в одном концерте…"</div>
-<img src="http://lichnosti.net/photos/1342/12698898642.jpg" height="320" border="0" width="250" class="rightpic">
+<p><img src="http://lichnosti.net/photos/1342/main.jpg" height="320" border="2" width="250" ><div>"Ненавижу коммунистов и гомосексуалистов. Этим половым извращенцам даже руки никогда не подам и не стану выступать с ними в одном концерте…"</div>
+<img src="http://lichnosti.net/photos/1342/12698898642.jpg" height="320" border="2" width="250" class="rightpic">
  <hr color="silver">
   <br>
 <br>
