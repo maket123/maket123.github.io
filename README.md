@@ -1,6 +1,6 @@
 <html>
 <body>
-  <p color="black">v 2.0</p>
+  <vid color="black">v 2.0</vid>
   <style>
 div {
 color: yellow;
@@ -18,8 +18,8 @@ margin:0;
 padding:0;
 }
 a {
-margin:350;
-padding:190px;
+margin:400;
+padding:200px;
 color:green;
 }
 ul.hr li {
