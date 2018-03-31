@@ -1,6 +1,6 @@
 <html>
 <body>
-  <p><strong>v 2.0</p>
+  <p color="black">v 2.0</p>
   <style>
 div {
 color: yellow;
