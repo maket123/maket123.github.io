@@ -19,8 +19,8 @@ margin:0;
 padding:0;
 }
 a {
-margin:285;
-padding:150px;
+margin:100;
+padding:50px;
 color:Goldenrod;
 }
 ul.hr li {
