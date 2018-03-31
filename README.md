@@ -8,7 +8,7 @@ color: yellow;
 font-weight:bold;
 }
 div {
-color:black;
+color:DimGray;
 font-weight:bolder;
 }
 .rightpic {
@@ -19,8 +19,8 @@ margin:0;
 padding:0;
 }
 a {
-margin:400;
-padding:200px;
+margin:150px;
+padding:100px;
 color:black;
 }
 ul.hr li {
@@ -63,4 +63,3 @@ font-weight:bold;
 <br>
 <br>
 </body>
-</html>
