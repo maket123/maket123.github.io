@@ -1,7 +1,7 @@
 <html>
  <hr color="silver">
 <body>
-  <vid color="black">v 2.0</vid>
+  <vid color="black"><smile>v 2.0</vid>
   <style>
 div {
 color: yellow;
