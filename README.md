@@ -41,6 +41,7 @@ font-weight:bold;
 <hr color="silver">
 <p><img src="http://lichnosti.net/photos/1342/main.jpg" height="320" border="0" width="250" ><div>"Ненавижу коммунистов и гомосексуалистов. Этим половым извращенцам даже руки никогда не подам и не стану выступать с ними в одном концерте…"</div>
 <img src="http://lichnosti.net/photos/1342/12698898642.jpg" height="320" border="0" width="250" class="rightpic">
+ <hr color="silver">
   <br>
 <br>
 <br>
