@@ -35,9 +35,9 @@ font-weight:bold;
 <p>Бард</p>
 <hr size="4" color="silver">
 <ul class="hr">
-<a href="http://m.zk.fm/artist/4136">Песни</a>
-<a href="https://www.ivi.ru/watch/legendyi_o_kruge">Фильмы</a>
  <a href="https://ru.m.wikipedia.org/wiki/Круг_Михаил_Владимирович">Обзор</a>
+ <a href="http://m.zk.fm/artist/4136">Песни</a>
+ <a href="https://www.ivi.ru/watch/legendyi_o_kruge">Фильмы</a>
 </ul>
 <hr color="silver">
 <p><img src="http://lichnosti.net/photos/1342/main.jpg" height="320" border="0" width="250" ><div>"Ненавижу коммунистов и гомосексуалистов. Этим половым извращенцам даже руки никогда не подам и не стану выступать с ними в одном концерте…"</div>
