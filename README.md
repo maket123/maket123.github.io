@@ -21,7 +21,7 @@ padding:0;
 a {
 margin:350;
 padding:190px;
-color:black;
+color:Goldenrod;
 }
 ul.hr li {
 display:inline;
@@ -60,6 +60,5 @@ font-weight:bold;
 <br>
 <div align="right">"Ну почему всем хочется провести такую параллель: раз поет блатные песни — значит, сидел. Я не сидел!"</div>
 <body bgcolor="gray">
-<br>
 <br>
 </body>
