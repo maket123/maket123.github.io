@@ -19,14 +19,14 @@ margin:0;
 padding:0;
 }
 a {
-margin:150px;
-padding:100px;
+margin:350;
+padding:190px;
 color:black;
 }
 ul.hr li {
 display:inline;
 }
-li {
+a {
 font-weight:bold;
 }
 </style>
